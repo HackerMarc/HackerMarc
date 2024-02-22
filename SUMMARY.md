@@ -1,12 +1,17 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
-  * [🏴󠁧󠁢󠁳󠁣󠁴󠁿 About The Author](welcome/about-the-author.md)
+## 👋 Welcome
+
+* [🏴󠁧󠁢󠁳󠁣󠁴󠁿 About The Author](README.md)
+
+***
+
 * [🏭 ICS/OT](ics-and-ot/README.md)
   * [Resources](ics-and-ot/resources/README.md)
     * [Influential People](ics-and-ot/resources/conferences.md)
     * [E-Books](ics-and-ot/resources/influential-people.md)
     * [Videos](ics-and-ot/resources/youtube-channels.md)
+    * [Documents](ics-and-ot/resources/documents.md)
 * [🎲 Web Application](web-application/README.md)
   * [TEST](web-application/test.md)
 * [🎣 Phishing](phishing.md)
