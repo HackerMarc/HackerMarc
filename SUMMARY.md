@@ -26,4 +26,4 @@
   * [🥘 Food](recipies/food/README.md)
     * [Domino's Garlic & Herb Dip](recipies/food/test.md)
   * [🍹 Drinks](recipies/drink/README.md)
-    * [Placeholder](recipies/drink/placeholder.md)
+    * [Bloody Mary](recipies/drink/placeholder.md)
