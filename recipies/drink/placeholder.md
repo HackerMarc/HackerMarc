@@ -6,3 +6,12 @@ coverY: 0
 
 # Bloody Mary
 
+{% hint style="success" %}
+Difficulty: Easy
+{% endhint %}
+
+| Ingredients | Measurements |
+| ----------- | ------------ |
+|             |              |
+|             |              |
+|             |              |
