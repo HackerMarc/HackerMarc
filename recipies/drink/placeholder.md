@@ -6,12 +6,35 @@ coverY: 0
 
 # Bloody Mary
 
-{% hint style="success" %}
-Difficulty: Easy
+{% hint style="warning" %}
+Difficulty: Medium
 {% endhint %}
 
-| Ingredients | Measurements |
-| ----------- | ------------ |
-|             |              |
-|             |              |
-|             |              |
+## Ingredients:
+
+| Ingredients          | Measurements       |
+| -------------------- | ------------------ |
+| Vodka                | 300ml              |
+| Horseradish          | 5cm piece          |
+| Tomato Juice         | 1 Litre            |
+| Tobasco              | 2 Tsp              |
+| Worcestershire Sauce | 2 Tsp              |
+| Celery Salt          | 1 Tsp              |
+| Lemon                | 1 Whole            |
+| Celery               | Garnish (Optional) |
+| Black Pepper         | Seasoning          |
+
+{% hint style="info" %}
+These measurements make 8 servings
+{% endhint %}
+
+## Method:
+
+1. Cut the horseradish into chunks and place in vodka to infuse over night
+2. Mix together tomato juice, Tabasco, Worcestershire sauce, and celery salt
+3. Squeeze in juice of half the lemon wedges
+4. Pour in the vodka
+5. Mix well
+6. Pour into glass with ice
+7. Season with black pepper and pinch of celery salt
+8. Garnish with Celery stick

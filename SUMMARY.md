@@ -1,12 +1,8 @@
 # Table of contents
 
-## 👋 Welcome
-
-* [🏴󠁧󠁢󠁳󠁣󠁴󠁿 About The Author](README.md)
-* [‼️ Disclaimer](welcome/disclaimer.md)
-
-***
-
+* [👋 Welcome](README.md)
+  * [🏴󠁧󠁢󠁳󠁣󠁴󠁿 About The Author](<README (1).md>)
+  * [‼️ Disclaimer](welcome/disclaimer.md)
 * [🏭 ICS/OT](ics-and-ot/README.md)
   * [Resources](ics-and-ot/resources/README.md)
     * [Certifications and Training](ics-and-ot/resources/certifications-and-training.md)
