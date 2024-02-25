@@ -31,3 +31,4 @@
   * [🍹 Drinks](recipies/drink/README.md)
     * [Bloody Mary](recipies/drink/placeholder.md)
     * [Verdita](recipies/drink/verdita.md)
+    * [Verdita Margarita](recipies/drink/verdita-margarita.md)
