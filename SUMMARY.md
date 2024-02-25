@@ -30,3 +30,4 @@
     * [Domino's Garlic & Herb Dip](recipies/food/test.md)
   * [🍹 Drinks](recipies/drink/README.md)
     * [Bloody Mary](recipies/drink/placeholder.md)
+    * [Verdita](recipies/drink/verdita.md)
