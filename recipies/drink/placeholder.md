@@ -31,7 +31,7 @@ These measurements make 8 servings
 ## Method:
 
 1. Cut the horseradish into chunks and place in vodka to infuse over night
-2. Mix together tomato juice, Tabasco, Worcestershire sauce, and celery salt
+2. Mix together tomato juice, Tabasco, and Worcestershire sauce
 3. Squeeze in juice of half the lemon wedges
 4. Pour in the vodka
 5. Mix well
