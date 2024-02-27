@@ -10,6 +10,7 @@
     * [Documents](ics-and-ot/resources/documents.md)
     * [E-Books](ics-and-ot/resources/influential-people.md)
     * [Videos](ics-and-ot/resources/youtube-channels.md)
+  * [OT Asset Discovery](ics-and-ot/ot-asset-discovery.md)
 * [🎲 Web Application](web-application/README.md)
   * [Checklist](web-application/checklist.md)
 * [🎣 Phishing](phishing/README.md)
