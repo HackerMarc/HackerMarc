@@ -9,3 +9,9 @@ coverY: 227
 
 # Creating an Alias
 
+## Phone Number
+
+## E-mail
+
+## Social Media
+
